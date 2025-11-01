@@ -1,0 +1,95 @@
+Create a professional and elegant “About Us” web page for Al-Bayan Academy for Quran Learning and Sciences.
+
+🖼️ Note: I will add the academy’s official logo manually, so leave a placeholder space for it in the header.
+
+Use the same color palette as in the reference image:
+
+Deep Green #2E4A40
+
+Golden Beige #D9B45E
+
+Light Cream Background #F9F7F2
+
+White and soft gray for clarity and contrast.
+
+🕌 Theme: Islamic, Educational, Elegant, and Trustworthy.
+🎨 Font Style: Use an Arabic-style heading font (e.g., Amiri, Scheherazade) and a clean sans-serif for body text.
+🧭 Layout: Responsive and minimal, with soft shadows, rounded edges, and light Islamic geometric patterns in the background.
+
+✨ Page Sections and Content:
+
+🟢 Header Section
+
+Leave space for the academy logo (to be added manually later).
+
+Navigation bar with links: Home – About – Programs – Join Us – Contact.
+
+Hero banner featuring an open Quran image with overlay text:
+“نور لقلبك، ورفعة في دنياك وآخرتك.”
+Subtitle in English:
+“A light for your heart, and an elevation in this life and the Hereafter.”
+
+🟢 About Section
+
+Title: About Al-Bayan Academy
+
+Paragraph:
+“Al-Bayan Academy is a specialized online institution dedicated to teaching and memorizing the Holy Quran. We aim to spread the light of the Quran across the world by providing accessible, high-quality learning experiences for students of all ages.”
+
+Add a decorative golden divider with Islamic geometric patterns.
+
+🟢 Mission & Vision Section
+
+Two side-by-side cards with icons:
+Our Mission: “To inspire hearts through the recitation, memorization, and understanding of the Holy Quran.”
+Our Vision: “To become a global platform connecting Muslims with the words of Allah — anytime, anywhere.”
+
+🟢 Programs Section
+
+Title: What We Offer
+
+Three elegant cards:
+1️⃣ Quran Memorization – “For all ages, guided by certified teachers in Ten Qira’at.”
+2️⃣ Tajweed & Tafsir Courses – “Deepen your understanding of the Quran.”
+3️⃣ Aqeedah & Islamic Sciences – “Build a strong foundation in faith and knowledge.”
+
+🟢 Global Learning Section
+
+Add a world map or globe illustration.
+
+Text: “Learn from anywhere in the world through live online sessions with flexible schedules.”
+
+🟢 Testimonials Section
+
+Include learner quotes:
+“The classes brought me closer to the Quran.” – Aisha, Egypt
+“An inspiring experience that changed my relationship with the Book of Allah.” – Omar, UK
+
+🟢 Call to Action Section
+
+Soft golden background with centered text:
+“Join Al-Bayan Academy today and begin your journey with the Quran.”
+
+Button: Enroll Now (green with golden hover glow).
+
+🟢 Footer Section
+
+Contact Info:
+📱 +966509043367
+📱 +9660571474369
+🌐 www.albayanacademy.com
+
+Gold social media icons.
+
+Small copyright text:
+“© 2025 Al-Bayan Academy – All Rights Reserved.”
+
+🌟 Extra Design Touches:
+
+Smooth scrolling animations between sections.
+
+Gentle golden glow hover effects for headings and buttons.
+
+Fully compatible with Arabic RTL layout.
+
+Responsive on all devices (desktop, tablet, mobile).
