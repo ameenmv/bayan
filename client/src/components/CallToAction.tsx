@@ -5,7 +5,7 @@ export default function CallToAction() {
   const handleEnroll = () => {
     console.log('Enroll button clicked');
   };
-
+ 
   return (
     <section 
       className="py-20 lg:py-28 bg-accent/20"
